@@ -1,0 +1,8 @@
+"" -> true [DONE]
+"x" -> true [DONE]
+"aa" -> true [DONE]
+"ab" -> false [DONE]
+"axxa" -> true [DONE]
+"axax" -> false [DONE]
+"abcxcba" -> true
+"abxab" -> false
